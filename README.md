@@ -1,7 +1,22 @@
 Predicting Flight Depareture Delays
 ==============================
 
-A short description of the project.
+Flight delays heavily affect customer experience and satisfaction. This would lead to negative effects on airline companies' revenue, such as customers buying from other air carriers instead. Continuous patterns of delays are detrimental to an airline company’s reputation, leaving them with dissatisfied customers and catastrophic logistics. AAA is tasked with providing insight into airline departure delays. For example, an analysis on which carriers are most and least reliable for on-time departure. This would provide a starting point for understanding the factors impacting delays. 
+
+Further analysis should be conducted to determine an insightful guide for airline strategic leaders. The guide will include features in the data set that are most correlated with departure delays, models that can accurately predict a departure delay, and explanations of the reason for departure delays of flights in the month of December. These insights will provide the business leaders with better understanding on remediation efforts to mitigate delays. Thus, a successful solution will be able to reduce the number of late departures and elevate customer satisfaction.
+
+
+Collabortors 
+- [Jimmy Nguyen](https://github.com/jimmy-nguyen-data-science)
+- [Roberto Cancel](https://github.com/rcancel3)
+- [Maha]()
+
+
+To clone this repository onto your device, use the commands below:
+
+	1. git init
+	2. git clone git@github.com:jimmy-nguyen-data-science/Predict-Food-Recipe-Ratings.git
+
 
 Project Organization
 ------------
