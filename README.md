@@ -1,4 +1,4 @@
-Predicting Flight Depareture Delays
+Predicting Flight Departure Delays
 ==============================
 
 Flight delays heavily affect customer experience and satisfaction. This would lead to negative effects on airline companies' revenue, such as customers buying from other air carriers instead. Continuous patterns of delays are detrimental to an airline company’s reputation, leaving them with dissatisfied customers and catastrophic logistics. We are tasked with providing insight into airline departure delays. For example, an analysis on which carriers are most and least reliable for on-time departure. This would provide a starting point for understanding the factors impacting delays. 
