@@ -6,7 +6,7 @@ Flight delays heavily affect customer experience and satisfaction. This would le
 Further analysis should be conducted to determine an insightful guide for airline strategic leaders. The guide will include features in the data set that are most correlated with departure delays, models that can accurately predict a departure delay, and explanations of the reason for departure delays of flights in the month of December. These insights will provide the business leaders with better understanding on remediation efforts to mitigate delays. Thus, a successful solution will be able to reduce the number of late departures and elevate customer satisfaction.
 
 
-Collabortors 
+# collaboratora  
 - [Jimmy Nguyen](https://github.com/jimmy-nguyen-data-science)
 - [Roberto Cancel](https://github.com/rcancel3)
 - [Maha]()
