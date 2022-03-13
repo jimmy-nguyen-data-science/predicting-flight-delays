@@ -9,7 +9,7 @@ Further analysis should be conducted to determine an insightful guide for airlin
 # collaboratora  
 - [Jimmy Nguyen](https://github.com/jimmy-nguyen-data-science)
 - [Roberto Cancel](https://github.com/rcancel3)
-- [Maha]()
+- [Maha Jayapal]()
 
 
 To clone this repository onto your device, use the commands below:
