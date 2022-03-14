@@ -1,0 +1,90 @@
+YEAR,AIRLINE_ID,OP_UNIQUE_CARRIER,UNIQUE_CARRIER_NAME,CARRIER,CARRIER_NAME,ENTITY,GENERAL_MANAGE,PILOTS_COPILOTS,OTHER_FLT_PERS,PASS_GEN_SVC_ADMIN,MAINTENANCE,ARCFT_TRAF_HANDLING_GRP1,GEN_ARCFT_TRAF_HANDLING,AIRCRAFT_CONTROL,PASSENGER_HANDLING,CARGO_HANDLING,TRAINEES_INTRUCTOR,STATISTICAL,TRAFFIC_SOLICITERS,OTHER,TRANSPORT_RELATED,TOTAL
+2019,21352,0WQ,Avjet Corporation,0WQ,Avjet Corporation,D,4,53,6,19,29,21,0,0,0,3,1,18,0,7,0,161
+2019,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",I,14,50,0,41,18,21,0,0,0,0,1,13,0,3,0,161
+2019,21712,2HQ,Elite Airways LLC,2HQ,Elite Airways LLC,D,9,32,0,24,32,19,0,0,0,0,0,7,0,0,0,123
+2019,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",D,0,29,0,32,2,6,0,0,0,0,0,0,0,0,0,69
+2019,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,D,14,54,11,0,104,90,0,0,0,0,4,45,5,20,0,347
+2019,19917,5X,United Parcel Service,5X,United Parcel Service,A,0,356,0,0,262,0,15,17,0,0,20,77,2,12,0,761
+2019,19917,5X,United Parcel Service,5X,United Parcel Service,D,0,1882,0,0,1383,0,77,90,0,0,108,405,10,64,0,4019
+2019,19917,5X,United Parcel Service,5X,United Parcel Service,L,0,143,0,0,105,0,6,7,0,0,8,31,1,5,0,306
+2019,19917,5X,United Parcel Service,5X,United Parcel Service,P,0,455,0,0,334,0,19,22,0,0,26,98,2,16,0,972
+2019,20007,5Y,Atlas Air Inc.,5Y,Atlas Air Inc.,D,341,1611,141,263,222,0,0,40,0,297,34,52,38,22,0,3061
+2019,20007,5Y,Atlas Air Inc.,5Y,Atlas Air Inc.,I,13,62,5,10,9,0,0,2,0,11,1,2,1,1,0,117
+2019,19874,8C,Air Transport International,8C,Air Transport International,A,3,38,0,4,27,0,0,1,0,0,0,2,0,5,0,80
+2019,19874,8C,Air Transport International,8C,Air Transport International,D,48,316,0,33,156,0,0,23,0,11,6,30,2,68,0,693
+2019,20363,9E,Endeavor Air Inc.,9E,Endeavor Air Inc.,D,4,1748,46,1361,988,0,0,79,0,0,182,110,0,80,0,4598
+2019,20190,9S,Southern Air Inc.,9S,Southern Air Inc.,D,1,363,0,3,36,0,0,13,0,0,0,1,0,1,0,418
+2019,19805,AA,American Airlines Inc.,AA,American Airlines Inc.,A,11,2337,0,4218,2633,0,0,85,2337,2864,83,2843,184,0,0,17595
+2019,19805,AA,American Airlines Inc.,AA,American Airlines Inc.,D,39,8586,0,15502,9677,0,0,312,8586,10523,305,10447,677,0,0,64654
+2019,19805,AA,American Airlines Inc.,AA,American Airlines Inc.,L,9,1961,0,3539,2209,0,0,71,1961,2403,70,2385,155,0,0,14763
+2019,19805,AA,American Airlines Inc.,AA,American Airlines Inc.,P,4,957,0,1727,1078,0,0,35,957,1173,34,1164,75,0,0,7204
+2019,20453,ABX,ABX Air Inc,ABX,ABX Air Inc,A,3,19,0,0,12,0,2,0,0,0,2,0,0,1,1,40
+2019,20453,ABX,ABX Air Inc,ABX,ABX Air Inc,D,28,214,0,0,133,0,17,0,0,0,21,6,2,13,8,442
+2019,19930,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,D,21,2893,99,5737,898,0,2921,234,1062,477,131,410,260,1867,0,17010
+2019,19930,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,L,1,155,5,306,48,0,156,13,57,25,7,22,14,100,0,909
+2019,20409,B6,JetBlue Airways,B6,JetBlue Airways,D,39,2840,19,3888,726,0,107,257,4905,62,368,215,157,1214,0,14797
+2019,20409,B6,JetBlue Airways,B6,JetBlue Airways,L,10,708,5,969,181,0,47,64,1222,0,0,53,39,302,0,3600
+2019,21167,CP,Compass Airlines,CP,Compass Airlines,D,0,532,0,424,136,0,4,72,0,0,66,6,0,189,0,1429
+2019,21167,CP,Compass Airlines,CP,Compass Airlines,L,0,4,0,3,1,0,0,0,0,0,0,0,0,1,0,9
+2019,19790,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,A,69,1872,0,3185,1233,0,658,114,3089,210,138,136,231,1927,0,12862
+2019,19790,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,D,342,9293,0,15809,6122,0,3265,568,15331,1040,683,673,1147,9566,0,63839
+2019,19790,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,L,41,1111,0,1891,732,0,391,68,1834,124,82,81,137,1144,0,7636
+2019,19790,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,P,29,789,0,1343,520,0,277,48,1302,88,58,57,97,813,0,5421
+2019,20366,EV,ExpressJet Airlines LLC,EV,ExpressJet Airlines LLC,D,0,1204,0,1072,517,0,0,13,0,0,0,0,0,0,0,2806
+2019,20366,EV,ExpressJet Airlines LLC,EV,ExpressJet Airlines LLC,L,0,37,0,64,16,0,0,0,0,0,0,0,0,0,0,117
+2019,20436,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,D,25,1473,0,154,237,0,91,19,2496,0,42,258,0,9,0,4804
+2019,20436,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,L,1,49,0,5,8,0,3,1,83,0,1,9,0,0,0,160
+2019,20107,FX,Federal Express Corporation,FX,Federal Express Corporation,A,2783,670,48,0,814,0,944,995,0,428,99,53,146,10488,39618,57086
+2019,20107,FX,Federal Express Corporation,FX,Federal Express Corporation,D,715,2870,146,0,1183,0,290,57,0,13260,48,8,1,3589,75450,97617
+2019,20107,FX,Federal Express Corporation,FX,Federal Express Corporation,L,1057,90,6,0,204,0,325,88,0,8355,45,24,54,3714,12938,26900
+2019,20107,FX,Federal Express Corporation,FX,Federal Express Corporation,P,2594,916,42,0,885,0,1125,438,0,25,93,48,123,10436,16669,33394
+2019,20368,G4,Allegiant Air,G4,Allegiant Air,D,46,953,89,1626,420,0,287,95,200,0,61,104,48,211,0,4140
+2019,20500,G7,GoJet Airlines LLC d/b/a United Express,G7,GoJet Airlines LLC d/b/a United Express,S,0,419,0,289,56,0,0,56,0,0,82,0,0,75,0,977
+2019,20166,GFQ,Gulf And Caribbean Cargo,GFQ,Gulf And Caribbean Cargo,D,2,25,4,0,4,6,0,0,0,0,0,5,0,0,0,46
+2019,20166,GFQ,Gulf And Caribbean Cargo,GFQ,Gulf And Caribbean Cargo,I,2,38,6,0,7,9,0,0,0,0,0,7,0,0,0,69
+2019,20402,GL,Miami Air International,GL,Miami Air International,D,8,31,0,66,28,0,11,7,0,0,2,24,5,0,0,182
+2019,20402,GL,Miami Air International,GL,Miami Air International,I,8,28,0,58,24,0,10,7,0,0,2,22,5,0,0,164
+2019,19690,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,D,89,586,0,1466,419,0,298,132,893,684,23,316,102,76,0,5084
+2019,19690,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,P,42,273,0,685,196,0,139,62,417,319,11,147,48,35,0,2374
+2019,20370,KAQ,Kalitta Air LLC,KAQ,Kalitta Air LLC,D,3,191,2,0,235,0,37,40,0,24,40,33,0,1,0,606
+2019,20370,KAQ,Kalitta Air LLC,KAQ,Kalitta Air LLC,I,8,447,5,0,550,0,87,92,0,55,94,76,0,65,0,1479
+2019,21629,KD,Western Global,KD,Western Global,D,10,179,0,0,146,0,8,25,0,46,12,12,1,2,0,441
+2019,21634,KH,Aloha Air Cargo,KH,Aloha Air Cargo,D,16,34,3,0,141,0,0,0,0,161,6,21,4,22,0,408
+2019,20372,KLQ,Kalitta Charters II,KLQ,Kalitta Charters II,D,4,62,2,3,26,0,14,0,0,0,7,9,0,2,0,129
+2019,20372,KLQ,Kalitta Charters II,KLQ,Kalitta Charters II,I,1,11,0,0,4,0,3,0,0,0,1,2,0,1,0,23
+2019,20169,L2,Lynden Air Cargo Airlines,L2,Lynden Air Cargo Airlines,D,5,44,24,0,37,22,0,0,0,0,0,42,0,0,0,174
+2019,20169,L2,Lynden Air Cargo Airlines,L2,Lynden Air Cargo Airlines,I,0,20,11,0,17,10,0,0,0,0,0,0,0,0,0,58
+2019,20151,M6,Amerijet International,M6,Amerijet International,D,4,36,0,0,43,0,23,10,0,102,0,31,19,7,2,277
+2019,20151,M6,Amerijet International,M6,Amerijet International,L,6,53,0,0,64,0,33,15,0,151,0,46,29,11,3,411
+2019,20398,MQ,Envoy Air,MQ,Envoy Air,D,1149,2109,0,1510,1565,0,3808,0,4923,0,230,0,0,265,0,15559
+2019,20398,MQ,Envoy Air,MQ,Envoy Air,L,27,49,0,35,36,0,88,0,114,0,5,0,0,6,0,360
+2019,20405,N8,National Air Cargo Group Inc d/ba National Airlines,N8,National Air Cargo Group Inc d/ba National Airlines,D,3,41,4,11,20,0,5,5,0,8,2,6,2,9,0,116
+2019,20405,N8,National Air Cargo Group Inc d/ba National Airlines,N8,National Air Cargo Group Inc d/ba National Airlines,I,3,17,4,11,19,0,4,4,0,8,1,5,1,9,0,86
+2019,20416,NK,Spirit Air Lines,NK,Spirit Air Lines,D,1239,2126,0,3592,395,0,0,66,264,0,27,19,0,314,0,8042
+2019,20416,NK,Spirit Air Lines,NK,Spirit Air Lines,L,149,255,0,430,47,0,0,8,32,0,3,2,0,38,0,964
+2019,20397,OH,PSA Airlines Inc.,OH,PSA Airlines Inc.,D,8,1729,1,1345,471,0,103,58,0,0,171,191,0,495,0,4572
+2019,20304,OO,SkyWest Airlines Inc.,OO,SkyWest Airlines Inc.,D,6,5175,0,4076,2145,0,183,176,1407,10,57,85,0,212,0,13532
+2019,20304,OO,SkyWest Airlines Inc.,OO,SkyWest Airlines Inc.,L,0,64,0,50,27,0,2,2,18,0,1,1,0,3,0,168
+2019,20177,PFQ,Asia Pacific,PFQ,Asia Pacific,I,8,25,0,0,22,3,0,0,0,0,1,4,0,0,0,63
+2019,20100,PO,Polar Air Cargo Airways,PO,Polar Air Cargo Airways,D,19,0,0,2,1,0,0,19,0,16,0,4,36,1,0,98
+2019,20100,PO,Polar Air Cargo Airways,PO,Polar Air Cargo Airways,P,3,0,0,1,3,0,0,0,0,42,0,0,81,0,0,130
+2019,19687,QX,Horizon Air,QX,Horizon Air,D,18,824,22,685,261,0,58,73,2097,76,138,28,4,17,0,4301
+2019,20422,SY,Sun Country Airlines d/b/a MN Airlines,SY,Sun Country Airlines d/b/a MN Airlines,D,76,303,0,534,149,0,31,17,10,2,0,42,130,38,0,1332
+2019,20422,SY,Sun Country Airlines d/b/a MN Airlines,SY,Sun Country Airlines d/b/a MN Airlines,L,12,50,0,88,24,0,5,3,2,0,0,7,21,6,0,218
+2019,20447,U7,USA Jet Airlines Inc.,U7,USA Jet Airlines Inc.,D,4,62,0,0,48,0,0,0,0,14,7,3,0,123,119,380
+2019,19977,UA,United Air Lines Inc.,UA,United Air Lines Inc.,A,88,1610,0,3212,1052,0,1911,142,3560,71,92,392,110,149,0,12389
+2019,19977,UA,United Air Lines Inc.,UA,United Air Lines Inc.,D,418,7637,0,15237,4991,0,9066,677,16888,338,438,1859,523,707,0,58779
+2019,19977,UA,United Air Lines Inc.,UA,United Air Lines Inc.,L,67,1214,0,2421,793,0,1441,107,2684,54,70,295,83,112,0,9341
+2019,19977,UA,United Air Lines Inc.,UA,United Air Lines Inc.,P,68,1248,0,2491,816,0,1482,110,2761,55,72,304,85,115,0,9607
+2019,20195,WI,Sky Lease Cargo,WI,Sky Lease Cargo,I,13,66,18,0,28,0,82,14,0,68,0,2,0,67,0,358
+2019,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",D,10,18,0,20,15,0,6,7,0,0,0,6,1,6,0,89
+2019,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",I,9,15,0,17,12,0,5,5,0,0,0,5,1,5,0,74
+2019,19393,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,D,1698,8989,0,15475,2482,0,1362,449,9668,10674,183,934,9,4847,0,56770
+2019,19393,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,L,45,236,0,407,65,0,36,12,254,281,5,25,0,127,0,1493
+2019,20377,X9,Omni Air International LLC,X9,Omni Air International LLC,D,2,31,0,33,20,0,0,4,2,0,2,7,1,1,0,103
+2019,20377,X9,Omni Air International LLC,X9,Omni Air International LLC,I,18,278,0,307,173,0,8,49,15,0,18,58,4,13,0,941
+2019,20207,XP,TEM Enterprises dba  Avelo Airlines,XP,XTRA Airways,D,10,3,4,0,2,2,0,0,0,0,0,0,0,0,0,21
+2019,20378,YV,Mesa Airlines Inc.,YV,Mesa Airlines Inc.,D,93,1312,0,1205,34,0,55,57,0,0,4,93,0,109,0,2962
+2019,20378,YV,Mesa Airlines Inc.,YV,Mesa Airlines Inc.,L,8,110,0,101,3,0,5,5,0,0,0,8,0,9,0,249
+2019,20452,YX,Republic Airline,YX,Republic Airline,D,37,2444,19,2273,787,0,0,183,23,0,67,267,0,260,0,6360
+2019,20046,ZW,Air Wisconsin Airlines Corp,ZW,Air Wisconsin Airlines Corp,D,125,793,0,265,184,0,22,36,0,0,16,80,0,70,0,1590
