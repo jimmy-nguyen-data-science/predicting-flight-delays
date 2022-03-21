@@ -69,4 +69,66 @@ Project Organization
 
 --------
 
+# How to download data and upload data into S3 Buckets
+
+- Files can be found in the \src\raw_data\ folder
+- Alternatively, files can be downloaded here from the original source: 
+
+	https://www.kaggle.com/datasets/threnjen/2019-airline-delays-and-cancellations
+
+
+**For creating and uploading S3 public bucket (Manually)**
+-----	
+
+	1. Git clone this repository following the instructions above 
+	2. Create AWS account to use services such as S3 Buckets and SageMaker
+	3. Go to the S3 page
+	4. Click create bucket, make a new folder called raw_data and upload the following files manually:
+		- B43_AIRCRAFT_INVENTORY.csv
+		- ONTIME_REPORTING_12.csv
+		- P10_EMPLOYEES.csv
+		- airports_list.csv
+		- CARRIER_DECODE.csv
+		- airport_weather_dec_2019.csv
+	4. Make this s3 bucket public for collaboration among teammates
+	5. Create a new, separate private bucket to upload cleaned and transformed data for future sagemaker notebooks
+
+
+-----
+
+**For creating S3 public bucket on AWS CL**
+
+- Specify the file path for where you downloaded the data sets
+-----
+	aws s3 mb s3://ads-508-airline
+	aws s3 cp file_path s3://ads-508-airline
+	aws s3api put-bucket-acl --bucket ads-508-airline --acl public-read
+	 
+-----
+
+
+
+**For creating S3 private bucket with Sagemaker notebooks** 
+- Use the following code and commands in a Sagemaker notebook with the following code:
+
+-----
+		
+		# Set-up
+
+		sess = sagemaker.Session()
+		bucket = sess.default_bucket()
+		role = sagemaker.get_execution_role()
+		region = boto3.Session().region_name
+		
+		# Private S3 Bucket
+		s3_private_path_csv = "s3://{}/ads508/data".format(bucket)
+		
+		# Upload downloaded data files into private s3 bucket 
+		
+		!aws s3 mb $s3_private_path_csv
+		!aws s3 cp $file_path $s3_private_path_csv/ 
+
+-----
+
+
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
