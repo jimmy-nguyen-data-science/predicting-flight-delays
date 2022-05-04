@@ -15,7 +15,7 @@ Further analysis should be conducted to determine an insightful guide for airlin
 To clone this repository onto your device, use the commands below:
 
 	1. git init
-	2. git clone git@github.com:jimmy-nguyen-data-science/Predict-Food-Recipe-Ratings.git
+	2. git clone git@github.com:jimmy-nguyen-data-science/predicting-flight-delays.git
 
 
 Project Organization
